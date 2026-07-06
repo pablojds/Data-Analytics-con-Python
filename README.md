@@ -8,4 +8,4 @@ Notebook donde se realizó el procesamiento, limpieza y análisis de datos en Py
 https://colab.research.google.com/drive/1PwRumjT0Z7EgQGuO0CFsgE5CzQW9ghZ9?usp=drive_link
 
 ## 📁 Otros archivos
-Datasets y archivo de imagen
+Datasets 
