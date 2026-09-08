@@ -1,7 +1,7 @@
 # Proyecto final - Análisis de datos
 
 ## 📊 Presentación Final Interactiva: 
-Abrir el archivo "Presentación Final.html"
+Abrir el archivo "Presentación Final.html". Luego descargarlo y ejecutarlo.
 
 ## 📒 Notebook de Google Colab
 Notebook donde se realizó el procesamiento, limpieza y análisis de datos en Python.
